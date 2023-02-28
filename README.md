@@ -1,4 +1,4 @@
-# fcc-magazine
+# FreeCodeCamp Magazine
 
 Building a magazine page with CSS grid
 
